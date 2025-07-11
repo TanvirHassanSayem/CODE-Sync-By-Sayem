@@ -20,7 +20,7 @@
 
 ## 🚀 Live Preview
 
-You can view the live preview of the project [here](https://code-sync-live.vercel.app/).
+You can view the live preview of the project [here](https://client-gules-omega-70.vercel.app/).
 
 ## 💻 Tech Stack
 
