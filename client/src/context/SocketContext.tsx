@@ -27,7 +27,7 @@ export const useSocket = (): SocketContextType => {
     return context
 }
 
-const BACKEND_URL = import.meta.env.VITE_API_URL
+const BACKEND_URL = import.meta.env.VITE_API_URL1
 
 const SocketProvider = ({ children }: { children: ReactNode }) => {
     const {
